@@ -8,7 +8,7 @@ This folder contains short, polished write-ups (“artifacts”) that demonstrat
 Artifacts are not study notes — they are **portfolio pieces** designed to show how I think, investigate, and explain.  
 Each artifact represents a real concept, threat scenario, or architecture pattern that I studied or analyzed.
 
-## 📘 What You'll Find Here
+## What You'll Find Here
 
 - **ec2-metadata.md**  
   Analysis of EC2 Instance Metadata (IMDS), security implications, and SSRF/credential-theft threats.
@@ -25,7 +25,7 @@ As my training progresses, I will continue adding:
 - Architecture rationales  
 - Cloud security decision artifacts  
 
-## 🎯 Purpose
+## Purpose
 
 This folder reflects my ability to:
 - Think critically about cloud security,
