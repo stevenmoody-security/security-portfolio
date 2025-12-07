@@ -9,7 +9,7 @@ These notes serve three purposes:
 2. **Portfolio artifact** – demonstrates cloud fundamentals, architectural thinking, and security awareness.  
 3. **Revision resource** – structured in a way that supports exam preparation and long-term retention.
 
-## 📘 Chapter Overview
+## Chapter Overview
 
 Each file in this directory corresponds to a major section of the SAA curriculum:
 
@@ -34,13 +34,13 @@ Each file in this directory corresponds to a major section of the SAA curriculum
 7. **Chapter 7 – Containers, ECS, and EKS**  
    Container fundamentals, ECS (EC2/Fargate), ECR, Kubernetes concepts, and EKS architecture.
 
-## 🧭 How to Use These Notes
+## How to Use These Notes
 
 - They are designed for **quick review** and deeper study — each section contains concise, exam-relevant explanations.  
 - They intentionally emphasize **security, identity, networking, and operational behavior**, which are central to both cloud engineering and SOC/cloud analyst roles.  
 - As I progress in my cloud specialization, I will expand these chapters with additional insights and practical examples.
 
-## 🎯 Purpose
+## Purpose
 
 This repository demonstrates:
 
