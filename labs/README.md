@@ -51,4 +51,46 @@ The labs here show:
 - **Ability to reason about evidence**  
 - **Growth over time across multiple platforms**
 
+---
+
+## Skills Demonstrated
+
+This portfolio highlights the technical skills I am actively developing for cloud security and SOC analyst roles:
+
+### **Cloud Architecture & AWS**
+- IAM, roles, least-privilege design  
+- VPC segmentation, routing, NAT, SG/NACL enforcement  
+- EC2 architecture, scaling, metadata security  
+- S3 permissions, lifecycle, encryption, access patterns  
+- Container fundamentals (ECS, ECR, EKS, Kubernetes basics)
+
+### **Security Operations & Incident Analysis**
+- SIEM alert triage and prioritization  
+- Log investigation across proxy, firewall, endpoint, and cloud sources  
+- Endpoint detection & response (EDR) analysis  
+- IOC scoping and threat validation  
+- Triage workflow: trigger → evidence → hypothesis → decision
+
+### **Network & Host Security**
+- Firewall rule creation and troubleshooting (pfSense)  
+- Understanding of allow/deny order, stateless vs stateful controls  
+- Identifying abnormal traffic patterns and suspicious behaviors  
+- Basic malware and persistence behavior awareness
+
+### **Encryption & Key Management**
+- Data confidentiality vs integrity  
+- Encryption impact on system performance  
+- Key lifecycle: creation, rotation, backup, destruction  
+- AWS KMS concepts mirrored in academic labs
+
+### **Technical Communication & Documentation**
+- Clear, concise security write-ups  
+- Professional incident-style investigations  
+- Organized note systems reflecting architectural reasoning  
+- Ability to explain complex topics to technical and nontechnical audiences  
+
+These skills reflect real operational workflows and map directly to early-career SOC, cloud analyst, and cloud security engineering roles.
+
+---
+
 This directory will expand as I complete new SOC, AWS, and security engineering labs.
